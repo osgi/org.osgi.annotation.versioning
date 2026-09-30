@@ -1,5 +1,9 @@
 # org.osgi.annotation.versioning
 
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/osgi/org.osgi.annotation.versioning/badge)](https://securityscorecards.dev/viewer/?uri=github.com/osgi/org.osgi.annotation.versioning)
+[![build](https://github.com/osgi/org.osgi.annotation.versioning/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/osgi/org.osgi.annotation.versioning/actions/workflows/build.yml)
+[![Maven Central](https://img.shields.io/maven-central/v/org.osgi/org.osgi.annotation.versioning)](https://central.sonatype.com/artifact/org.osgi/org.osgi.annotation.versioning)
+
 OSGi Specification repo for org.osgi.annotation.versioning
 
 Part of the [OSGi Specification Project](https://projects.eclipse.org/projects/technology.osgi).
